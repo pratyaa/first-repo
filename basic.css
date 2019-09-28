@@ -1,0 +1,15 @@
+body{
+	
+	text-align :center;
+	background-color:#E0FFFF;
+
+}
+.image{
+	margin:40px 250px 80px 250px;
+}
+img
+{margin:15px;}
+#welcome{
+	font-size: 55px;
+	font-family:"Brush Script ";
+}
